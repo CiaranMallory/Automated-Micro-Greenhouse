@@ -4,3 +4,4 @@ The code is used to control 3 pieces of equipment, a fan,
 water pump and LED strips intended to keep the temperature inside the greenhouse at a certain 
 value as well as the soil at a certain moisture. 
 The equipment is dependent on input from 2 sensors, a moisture sensor and a temperature sensor.
+An LCD display is also used to display the temperature read from the temperature sensor.
