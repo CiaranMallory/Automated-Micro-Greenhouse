@@ -1,7 +1,6 @@
 
 #include <LiquidCrystal.h>
 #include <Adafruit_NeoPixel.h>
-#include <Servo.h>
 
 #define PIN 7	 // set input pin Neopixel is attached to
 #define NUM_LEDS 23 // number of neopixels in Ring
